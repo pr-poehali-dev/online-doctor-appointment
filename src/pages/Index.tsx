@@ -103,6 +103,10 @@ const Index = () => {
                 <Icon name="Phone" size={16} className="mr-2" />
                 8 (800) 555-35-35
               </Button>
+              <Button size="sm">
+                <Icon name="User" size={16} className="mr-2" />
+                Войти
+              </Button>
             </nav>
             <Button className="md:hidden" variant="ghost" size="icon">
               <Icon name="Menu" size={24} />
