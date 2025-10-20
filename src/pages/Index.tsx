@@ -119,7 +119,7 @@ const Index = () => {
               Онлайн-запись 24/7
             </Badge>
             <h2 className="text-4xl md:text-6xl font-bold font-sans mb-6 text-foreground">
-              Запись к врачу за 2 минуты
+              Запись к врачу онлайн: современный подход
             </h2>
             <p className="text-xl text-muted-foreground mb-8 font-body">
               Выбирайте специалиста, дату и время онлайн. Без очередей и звонков.
